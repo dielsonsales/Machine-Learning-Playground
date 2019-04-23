@@ -6,3 +6,5 @@ scipy==1.1.0
 msgpack==0.5.6
 jupyter
 pandas==0.24.2
+tensorflow==1.13.1
+keras==2.2.4
